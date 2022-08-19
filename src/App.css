@@ -1,0 +1,10 @@
+h1,p{
+  
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+  
+}
+.avatar {
+  border-radius: 50%;
+}
